@@ -22,7 +22,7 @@
 
    ```sh
 
-   cd LAB-AP-XX-2026
+   cd LAB-AP-02-2026
    git branch NIM_ANDA
    git checkout NIM_ANDA
    git config user.name USERNAME_GITHUB
