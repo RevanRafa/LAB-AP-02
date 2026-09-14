@@ -14,7 +14,7 @@
 
    ```sh
 
-   git clone https://github.com/YOUR_USERNAME/LAB-AP-XX-2026.git
+   git clone https://github.com/moychita/LAB-AP-02-2026.git
 
    ```
 
